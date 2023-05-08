@@ -7,7 +7,9 @@ import java.util.NoSuchElementException;
 
 public class HeapImpl implements Heap {
     private ArrayList<Integer> heap;
-    public HeapImpl() {
+    private int capacity;
+    public HeapImpl(int capacity) {
+        this.capacity = capacity;
         this.heap = new ArrayList<>();
     }
 
@@ -18,6 +20,9 @@ public class HeapImpl implements Heap {
 
     @Override
     public void add(int key) throws IndexOutOfBoundsException {
+        if(heap.size()>=capacity){
+            throw new IndexOutOfBoundsException();
+        }
         heap.add(key);
         bubbleUp(heap.size()-1);
     }

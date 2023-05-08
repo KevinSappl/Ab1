@@ -5,37 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bc42cce-57ff-4b04-b9f5-da58a40c0f88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/7.5.1/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/7.5.1/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/7.5.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/src/main/java/ab1/Ab1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/src/main/java/ab1/Heap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/src/main/java/ab1/SortedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/src/main/java/ab1/Sorter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/src/main/java/ab1/impl/Nachnamen/Ab1Impl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/src/main/java/ab1/impl/Nachnamen/HeapImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/src/main/java/ab1/impl/Nachnamen/SortedListImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/src/main/java/ab1/impl/Nachnamen/SorterImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ab1/code/src/test/java/ab1/Ab1Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ab1.Ab1Tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ab1.Ab1Tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/ab1.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/ab1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ab1.Ab1Tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ab1.Ab1Tests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/Ab1Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/Ab1Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/HeapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/HeapImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +67,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
@@ -135,9 +119,81 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Ab1Tests.Heap_add_exception" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ab1.Ab1Tests.Heap_add_exception&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ab1Tests.Heap_remove" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ab1.Ab1Tests.Heap_remove&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Ab1Tests.SortedList_remove" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ab1.Ab1Tests.SortedList_remove&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.Ab1Tests" />
+        <item itemvalue="Gradle.Ab1Tests.Heap_add_exception" />
+        <item itemvalue="Gradle.Ab1Tests.SortedList_remove" />
+        <item itemvalue="Gradle.Ab1Tests.Heap_remove" />
         <item itemvalue="Gradle.Ab1Tests.Heap_add" />
       </list>
     </recent_temporary>

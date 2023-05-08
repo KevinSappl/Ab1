@@ -22,7 +22,7 @@ public class Ab1Impl implements Ab1 {
     @Override
     public Heap newHeap(int capacity) {
         // Ihre Implementierung
-        return new HeapImpl();
+        return new HeapImpl(capacity);
     }
 
     @Override
