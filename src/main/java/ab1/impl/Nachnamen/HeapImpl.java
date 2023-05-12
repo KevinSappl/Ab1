@@ -12,7 +12,7 @@ public class HeapImpl implements Heap {
         this.capacity = capacity;
         this.heap = new ArrayList<>();
     }
-
+    //Implemented Methods
     @Override
     public void clear() {
         heap.clear();
@@ -53,10 +53,10 @@ public class HeapImpl implements Heap {
     public int size() {
         return heap.size();
     }
-    //Helper Classes
+    //Helper Methods
     private void bubbleDown(int index) {
         int largestChildIndex = index;
-        while (true) {
+        do {
             int leftChildIndex = 2 * index + 1;
             int rightChildIndex = 2 * index + 2;
             if (leftChildIndex < heap.size() && heap.get(leftChildIndex) > heap.get(largestChildIndex)) {
@@ -65,12 +65,9 @@ public class HeapImpl implements Heap {
             if (rightChildIndex < heap.size() && heap.get(rightChildIndex) > heap.get(largestChildIndex)) {
                 largestChildIndex = rightChildIndex;
             }
-            if (largestChildIndex == index) {
-                break;
-            }
             swap(index, largestChildIndex);
             index = largestChildIndex;
-        }
+        } while(largestChildIndex == index);
     }
     private void bubbleUp(int index) {
         while (index > 0) {
