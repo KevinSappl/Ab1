@@ -56,6 +56,7 @@ public class HeapImpl implements Heap {
     //Helper Methods
     private void bubbleDown(int index) {
         int largestChildIndex = index;
+        boolean isHeap = false;
         do {
             int leftChildIndex = 2 * index + 1;
             int rightChildIndex = 2 * index + 2;
@@ -65,9 +66,14 @@ public class HeapImpl implements Heap {
             if (rightChildIndex < heap.size() && heap.get(rightChildIndex) > heap.get(largestChildIndex)) {
                 largestChildIndex = rightChildIndex;
             }
-            swap(index, largestChildIndex);
-            index = largestChildIndex;
-        } while(largestChildIndex != index);
+            if(largestChildIndex != index) {
+                swap(index, largestChildIndex);
+                index = largestChildIndex;
+            }
+            else {
+                isHeap=true;
+            }
+        } while(!isHeap);
     }
     private void bubbleUp(int index) {
         while (index > 0) {
