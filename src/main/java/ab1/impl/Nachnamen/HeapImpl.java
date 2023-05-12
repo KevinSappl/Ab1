@@ -67,7 +67,7 @@ public class HeapImpl implements Heap {
             }
             swap(index, largestChildIndex);
             index = largestChildIndex;
-        } while(largestChildIndex == index);
+        } while(largestChildIndex != index);
     }
     private void bubbleUp(int index) {
         while (index > 0) {
