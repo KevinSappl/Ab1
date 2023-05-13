@@ -16,7 +16,7 @@ public class Ab1Impl implements Ab1 {
     @Override
     public Sorter newQuickSort() {
         // Ihre Implementierung
-        return null;
+        return new SorterImpl();
     }
 
     @Override

@@ -5,17 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bc42cce-57ff-4b04-b9f5-da58a40c0f88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/HeapImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/HeapImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/Ab1Impl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/Ab1Impl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/SortedListImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/SortedListImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/SorterImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/SorterImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ab1.Ab1Tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ab1.Ab1Tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/ab1.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/ab1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ab1.Ab1Tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ab1.Ab1Tests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/HeapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/HeapImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/Ab1Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/Ab1Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/SorterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/SorterImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +43,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -68,7 +84,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.Ab1Tests">
+  <component name="RunManager" selected="Gradle.Ab1Tests.QuickSort_large">
     <configuration name="Ab1Tests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -92,7 +108,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Ab1Tests.Heap_add" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Ab1Tests.HeapSort_small" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -105,7 +121,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ab1.Ab1Tests.Heap_add&quot;" />
+            <option value="&quot;ab1.Ab1Tests.HeapSort_small&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -138,7 +154,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Ab1Tests.Heap_remove" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Ab1Tests.QuickSort_large" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -151,7 +167,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ab1.Ab1Tests.Heap_remove&quot;" />
+            <option value="&quot;ab1.Ab1Tests.QuickSort_large&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -161,7 +177,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Ab1Tests.SortedList_remove" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Ab1Tests.QuickSort_small" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -174,7 +190,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ab1.Ab1Tests.SortedList_remove&quot;" />
+            <option value="&quot;ab1.Ab1Tests.QuickSort_small&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -186,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Ab1Tests.QuickSort_large" />
+        <item itemvalue="Gradle.Ab1Tests.QuickSort_small" />
         <item itemvalue="Gradle.Ab1Tests" />
-        <item itemvalue="Gradle.Ab1Tests.Heap_add" />
+        <item itemvalue="Gradle.Ab1Tests.HeapSort_small" />
         <item itemvalue="Gradle.Ab1Tests.Heap_add_exception" />
-        <item itemvalue="Gradle.Ab1Tests.SortedList_remove" />
-        <item itemvalue="Gradle.Ab1Tests.Heap_remove" />
       </list>
     </recent_temporary>
   </component>
@@ -217,15 +233,6 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/ab1/Ab1Tests.java</url>
-          <line>182</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="GradleRunConfiguration">
         <watch expression="h.max()" language="JAVA" />
