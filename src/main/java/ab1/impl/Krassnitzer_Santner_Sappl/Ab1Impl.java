@@ -1,4 +1,4 @@
-package ab1.impl.Nachnamen;
+package ab1.impl.Krassnitzer_Santner_Sappl;
 
 import ab1.Ab1;
 import ab1.Heap;
@@ -28,7 +28,7 @@ public class Ab1Impl implements Ab1 {
     @Override
     public Sorter newHeapSort(int capacity) {
         // Ihre Implementierung
-        return null;
+        return new SorterImpl(capacity);
     }
 
 }

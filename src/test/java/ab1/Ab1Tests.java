@@ -1,18 +1,12 @@
 package ab1;
 
-import ab1.impl.Nachnamen.Ab1Impl;
+import ab1.impl.Krassnitzer_Santner_Sappl.Ab1Impl;
 
-import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.Timeout;
 
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.Random;
-import java.util.concurrent.TimeUnit;
-import java.util.stream.IntStream;
 import java.util.NoSuchElementException;
-import java.time.Duration;
 
 import static org.junit.jupiter.api.Assertions.*;
 

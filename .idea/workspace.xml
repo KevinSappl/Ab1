@@ -5,30 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bc42cce-57ff-4b04-b9f5-da58a40c0f88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/Ab1Impl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/Ab1Impl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/SortedListImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/SortedListImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/SorterImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ab1/impl/Nachnamen/SorterImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ab1.Ab1Tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ab1.Ab1Tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/ab1.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/ab1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ab1.Ab1Tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ab1.Ab1Tests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/Ab1Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/Ab1Impl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/SorterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/SorterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/Ab1Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Krassnitzer_Santner_Sappl/Ab1Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/HeapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Krassnitzer_Santner_Sappl/HeapImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/SortedListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Krassnitzer_Santner_Sappl/SortedListImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/SorterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Krassnitzer_Santner_Sappl/SorterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ab1/Ab1Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ab1/Ab1Tests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +66,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.Ab1Tests.QuickSort_large">
+  <component name="RunManager" selected="Gradle.Ab1Tests">
     <configuration name="Ab1Tests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -202,9 +184,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Ab1Tests" />
         <item itemvalue="Gradle.Ab1Tests.QuickSort_large" />
         <item itemvalue="Gradle.Ab1Tests.QuickSort_small" />
-        <item itemvalue="Gradle.Ab1Tests" />
         <item itemvalue="Gradle.Ab1Tests.HeapSort_small" />
         <item itemvalue="Gradle.Ab1Tests.Heap_add_exception" />
       </list>
