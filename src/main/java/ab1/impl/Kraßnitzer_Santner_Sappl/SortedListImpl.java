@@ -1,4 +1,4 @@
-package ab1.impl.Krassnitzer_Santner_Sappl;
+package ab1.impl.Kraßnitzer_Santner_Sappl;
 
 import ab1.SortedList;
 

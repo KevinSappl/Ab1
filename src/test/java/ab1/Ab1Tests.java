@@ -1,6 +1,6 @@
 package ab1;
 
-import ab1.impl.Krassnitzer_Santner_Sappl.Ab1Impl;
+import ab1.impl.Kraßnitzer_Santner_Sappl.Ab1Impl;
 
 import org.junit.jupiter.api.Test;
 
