@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bc42cce-57ff-4b04-b9f5-da58a40c0f88" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/Ab1Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Krassnitzer_Santner_Sappl/Ab1Impl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/HeapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Krassnitzer_Santner_Sappl/HeapImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/SortedListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Krassnitzer_Santner_Sappl/SortedListImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ab1/impl/Nachnamen/SorterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ab1/impl/Krassnitzer_Santner_Sappl/SorterImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ab1/Ab1Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ab1/Ab1Tests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
